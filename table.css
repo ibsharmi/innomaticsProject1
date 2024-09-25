@@ -1,0 +1,29 @@
+.heading{
+    background-color: yellow;
+}
+.date{
+    
+    background-color: yellow;
+    font-weight: bold;
+
+}
+.table{
+    border: 1px solid;
+    border-collapse: collapse;
+    width:50%
+}
+.data-cell{
+    border:1px solid black;
+    
+}
+.home{
+    background-color: rgb(235, 164, 199);
+}
+.time{
+    background-color: #e6e6e6;
+}
+td,th{
+    
+   text-align: center;
+   padding: 7px;
+}
